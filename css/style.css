@@ -1,0 +1,46 @@
+
+.inlineNav{
+    vertical-align: top;
+    width: 100%;
+    text-align: right;
+    margin-left: auto;
+    margin-top: auto;
+}
+
+li{
+    display: inline;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    font: arial;
+    
+}
+
+header{
+    width: auto;
+    height: 50px;
+    background-color: black;
+}
+
+.heroImg{
+    display: inline-block;
+    height: 600px;
+    width: auto;
+    background-color: gray;
+    align-content: center;
+}
+
+img{
+    height: 75%;
+}
+
+footer{
+    width: auto;
+    height: 50px;
+    background-color: darkgrey;
+}
+
+ul{
+    align-content: center;
+}
